@@ -1,13 +1,13 @@
 
 <b>Android App with Firebase Integration</b>
 
-Features:
+<b>Features</b></b><br>
 
 -> User Registration and Login.<br>
 -> Create, Edit, and Delete Notes.<br>
 -> Colorful Notes.<br>
 
-Technologies Used:<br>
+<b>Technologies Used</b><br>
 
 --> Android Studio<br>
 --> Java<br>
