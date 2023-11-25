@@ -4,16 +4,16 @@ Android App with Firebase Integration
 
 Features:
 
--> User Registration and Login.
--> Create, Edit, and Delete Notes.
--> Colorful Notes.
+-> User Registration and Login.<br>
+-> Create, Edit, and Delete Notes.<br>
+-> Colorful Notes.<br>
 
-Technologies Used:
+Technologies Used:<br>
 
---> Android Studio
---> Java
---> Firebase Authentication (for user registration and login)
---> Firebase Firestore (for storing notes)
+--> Android Studio<br>
+--> Java<br>
+--> Firebase Authentication (for user registration and login)<br>
+--> Firebase Firestore (for storing notes)<br>
 
 With help of @pmoschos
 
