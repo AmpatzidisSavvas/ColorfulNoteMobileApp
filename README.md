@@ -20,4 +20,5 @@ Technologies Used:
 
 --> Firebase Firestore (for storing notes)
 
+With help of @pmoschos
 
