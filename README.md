@@ -1,5 +1,5 @@
 
-<b>Android App with Firebase Integration</b>
+<b><u>Android App with Firebase Integration</u></b>
 
 <b>Features</b></b><br>
 
