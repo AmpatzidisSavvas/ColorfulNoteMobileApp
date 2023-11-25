@@ -14,7 +14,7 @@ Technologies Used:<br>
 --> Firebase Authentication (for user registration and login)<br>
 --> Firebase Firestore (for storing notes)<br>
 
-With help of @pmoschos
+With help of Panagiotis Moschos(https://github.com/pmoschos)
 
 ![1-2-3](https://github.com/AmpatzidisSavvas/ColorfulNotesApp/assets/134397286/e6b2e84e-e4b5-411c-98cd-6b783c85dd98)
 ![4-5-6-7](https://github.com/AmpatzidisSavvas/ColorfulNotesApp/assets/134397286/285946cf-7bd3-488e-b58d-4cf78f9006e2)
