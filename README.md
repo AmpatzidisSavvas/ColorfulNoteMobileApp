@@ -1,18 +1,18 @@
 
 <b><u>Android App with Firebase Integration</u></b>
 
-<b>Features</b></b><br>
+<b>--> Features</b></b><br>
 
 -> User Registration and Login.<br>
 -> Create, Edit, and Delete Notes.<br>
 -> Colorful Notes.<br>
 
-<b>Technologies Used</b><br>
+<b>--> Technologies Used</b><br>
 
---> Android Studio<br>
---> Java<br>
---> Firebase Authentication (for user registration and login)<br>
---> Firebase Firestore (for storing notes)<br>
+-> Android Studio<br>
+-> Java<br>
+-> Firebase Authentication (for user registration and login)<br>
+-> Firebase Firestore (for storing notes)<br>
 
 With help of Panagiotis Moschos(https://github.com/pmoschos)
 
