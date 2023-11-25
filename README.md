@@ -1,6 +1,5 @@
-![1](https://github.com/AmpatzidisSavvas/ColorfulNotesApp/assets/134397286/e896768e-dbb2-43a5-82d8-447bd57eeb1a)# ColorfulNotesApp
 
-Android App with Firebase Integration
+<b>Android App with Firebase Integration</b>
 
 Features:
 
